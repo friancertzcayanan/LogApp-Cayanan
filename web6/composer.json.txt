@@ -1,0 +1,6 @@
+{
+    "name": [friancertzcayanan/logApp-Cayanan]",
+    "type:" "project",
+    "minimum-stability": "stable", 
+    "require": {}
+}
