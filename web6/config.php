@@ -1,6 +1,6 @@
 <?php
-	define('ROOT_URL', '');
-	define('DB_HOST', '');
-	define('DB_USER', '');
-	define('DB_PASS', '');
-	define('DB_NAME', '');
+	define('ROOT_URL', 'guestbook-login.php');
+	define('DB_HOST', 'sql6.freedatabase.com');
+	define('DB_USER', 'sql6415403');
+	define('DB_PASS', 'hDMDyCxpup');
+	define('DB_NAME', 'sql6415403');
